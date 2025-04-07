@@ -1,3 +1,5 @@
+## With OTJ it is not meant to replace professional help or advice on important matters like counseling, therapy, or financial planning. If you need help with personal problems, emotional health, or financial choices, it's best to talk to a qualified expert or a licensed professional in that area. **ANY** of these jailbreaks **ESPECIALLY** OTJ **CANNOT** substitute for human knowledge and **SHOULD NOT EVER** be used for making significant life decisions.
+
 # AI JBreak Collection
 Jailbreak ai without jailbreaking ai
 
@@ -38,7 +40,5 @@ This "jailbreak" is to simply fix the false-positives that many people face when
  - Gathering information for an article or from an article that can contain potentially harmful, illegal, or unethical information
 
 And there are many more things that could be flagged not just for information this is simply what friends and friends of friends have complained about.
-
-## With OTJ it is not meant to replace professional help or advice on important matters like counseling, therapy, or financial planning. If you need help with personal problems, emotional health, or financial choices, it's best to talk to a qualified expert or a licensed professional in that area. **ANY** of these jailbreaks **ESPECIALLY** OTJ **CANNOT** substitute for human knowledge and **SHOULD NOT EVER** be used for making significant life decisions.
 
 <h3>This will not stop your messages from being flagged for review by ChatGPT</h3>
