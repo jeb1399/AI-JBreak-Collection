@@ -26,3 +26,17 @@ In order to make sure you use the system prompt modified jailbreaks you must kno
 To do this click your profile icon in the top right corner of the screen then you should see a menu pop out. Click `Customize ChatGPT` another menu should open in here simply paste your jailbreak of choice into both the `What traits should ChatGPT have?` and the `Anything else ChatGPT should know about you?` boxes then click **`Save`** and your done!
 
 **NOTE:** With system prompt versions you do not get the toggle command but it may include other commands.
+
+<hr/>
+<h2>Use</h2>
+
+Please do not use this for illegal stuff. Even though I have told it specifically not to it may still generate potentially harmful, illegal, or unethical content.
+
+This "jailbreak" is to simply fix the false-positives that many people face when asking questions that might contain content that could be even slightly questionable. This can happen if you are:
+
+ - Completing a school assignment on something like: slavery, genocide, or anything else like that
+ - Gathering information for an article or from an article that can contain potentially harmful, illegal, or unethical information
+
+And there are many more things that could be flagged not just for information this is simply what friends and friends of friends have complained about.
+
+<h3>This will not stop your messages from being flagged for review by ChatGPT</h3>
