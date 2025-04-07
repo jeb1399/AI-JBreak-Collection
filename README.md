@@ -1,7 +1,7 @@
 > # IMPORTANT
-<div style="color: #ff0000; background-color: #ffcccc; padding: 10px; border: 1px solid #ff0000; border-radius: 5px">
+<p style="color: #ff0000; background-color: #ffcccc; padding: 10px; border: 1px solid #ff0000; border-radius: 5px">
 With OTJ it is not meant to replace professional help or advice on important matters like counseling, therapy, or financial planning. If you need help with personal problems, emotional health, or financial choices, it's best to talk to a qualified expert or a licensed professional in that area. <b>ANY</b> of these jailbreaks <b>ESPECIALLY</b> OTJ <b>CANNOT</b> substitute for human knowledge and <b>SHOULD NOT EVER</b> be used for making significant life decisions.
-</div>
+</p>
 
 <hr/>
 
