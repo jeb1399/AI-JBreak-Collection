@@ -11,6 +11,10 @@ Some of these AI jailbreaks MAY seem to have been detected but please use their 
 <hr/>
 <h2>Built-in commands</h2>
 
+<h4>IBOB</h4>
+
+ - `.ibob` to toggle on/off
+
 <h4>RAJ and RAJ-TO-GO</h4>
 
  - `.raj` to toggle on/off
