@@ -1,7 +1,7 @@
-- > # IMPORTANT
-- <code style="color: #ff0000">
-- With OTJ it is not meant to replace professional help or advice on important matters like counseling, therapy, or financial planning. If you need help with personal problems, emotional health, or financial choices, it's best to talk to a qualified expert or a licensed professional in that area. <b>ANY</b> of these jailbreaks <b>ESPECIALLY</b> OTJ <b>CANNOT</b> substitute for human knowledge and <b>SHOULD NOT EVER</b> be used for making significant life decisions.
-- </code>
+! > # IMPORTANT
+! <code style="color: #ff0000">
+! With OTJ it is not meant to replace professional help or advice on important matters like counseling, therapy, or financial planning. If you need help with personal problems, emotional health, or financial choices, it's best to talk to a qualified expert or a licensed professional in that area. <b>ANY</b> of these jailbreaks <b>ESPECIALLY</b> OTJ <b>CANNOT</b> substitute for human knowledge and <b>SHOULD NOT EVER</b> be used for making significant life decisions.
+! </code>
 
 <hr/>
 
