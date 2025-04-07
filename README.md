@@ -1,5 +1,8 @@
 ## With OTJ it is not meant to replace professional help or advice on important matters like counseling, therapy, or financial planning. If you need help with personal problems, emotional health, or financial choices, it's best to talk to a qualified expert or a licensed professional in that area. **ANY** of these jailbreaks **ESPECIALLY** OTJ **CANNOT** substitute for human knowledge and **SHOULD NOT EVER** be used for making significant life decisions.
 
+<hr/>
+<hr/>
+
 # AI JBreak Collection
 Jailbreak ai without jailbreaking ai
 
